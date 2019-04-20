@@ -1,0 +1,27 @@
+.login-txtbox {
+    width: 100% !important;
+}
+
+.phAnimate {
+    position: relative;
+    padding-top: 20px;
+    margin-bottom: 0px;
+
+    label {
+        cursor: text;
+        margin: 0;
+        padding: 0;
+        left: 15px;
+        top: 27px;
+        position: absolute;
+        font-size: 14px;
+        color: #ccc;
+        font-weight: normal;
+        transition: all 0.3s ease;
+    }
+
+    small {
+        color: #e74c3c;
+        padding-left: 12px;
+    }
+}
